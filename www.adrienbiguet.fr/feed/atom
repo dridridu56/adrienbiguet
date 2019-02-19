@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>8d2dd28b0ccf4429a7ad785251c42ccf</title>
+  <link rel="alternate" href="https://www.adrienbiguet.fr" />
+  <subtitle />
+  <entry>
+    <title>My First Blog Post</title>
+    <link rel="alternate" href="https://www.adrienbiguet.fr/my-first-blog-post" />
+    <author>
+      <name>null null</name>
+      <email>websitebuilder@1and1.de</email>
+    </author>
+    <updated>2017-02-10T11:11:31Z</updated>
+    <published>2017-02-10T11:11:31Z</published>
+    <summary type="text" />
+  </entry>
+  <entry>
+    <title>10 Reasons You Should Love Blogging</title>
+    <link rel="alternate" href="https://www.adrienbiguet.fr/10-reasons-you-should-love-blogging" />
+    <author>
+      <name>null null</name>
+      <email>websitebuilder@1and1.de</email>
+    </author>
+    <updated>2017-02-10T11:11:31Z</updated>
+    <published>2017-02-10T11:11:31Z</published>
+    <summary type="text" />
+  </entry>
+</feed>

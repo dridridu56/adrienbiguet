@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>8d2dd28b0ccf4429a7ad785251c42ccf</title>
+    <link>https://www.adrienbiguet.fr</link>
+    <description />
+    <atom:link href="https://www.adrienbiguet.fr/feed/rss2" type="application/rss+xml" rel="self" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://www.adrienbiguet.fr/my-first-blog-post</link>
+      <description />
+      <pubDate>Fri, 10 Feb 2017 11:11:31 GMT</pubDate>
+      <author>websitebuilder@1and1.de</author>
+      <guid>https://www.adrienbiguet.fr/my-first-blog-post</guid>
+    </item>
+    <item>
+      <title>10 Reasons You Should Love Blogging</title>
+      <link>https://www.adrienbiguet.fr/10-reasons-you-should-love-blogging</link>
+      <description />
+      <pubDate>Fri, 10 Feb 2017 11:11:31 GMT</pubDate>
+      <author>websitebuilder@1and1.de</author>
+      <guid>https://www.adrienbiguet.fr/10-reasons-you-should-love-blogging</guid>
+    </item>
+  </channel>
+</rss>
